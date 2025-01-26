@@ -20,10 +20,7 @@ body {
   height: 100vh;
   width: 100vw;
   background-color: #000;
-  /* display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: space-around; */
+
 }
 .page video {
   height: 100%;
@@ -35,7 +32,6 @@ body {
 .page > nav {
   height: 9vh;
   width: 50vw;
-  /* background-color: #000; */
   position: absolute;
   top: 0%;
   left: 50%;
@@ -83,7 +79,6 @@ body {
   margin-bottom: 40px;
 }
 .btm-in {
-  /* position: absolute; */
   height: 70%;
   width: 100%;
   display: flex;
@@ -120,10 +115,6 @@ body {
   width: 86%;
   object-fit: cover;
 }
-#page1 .vid {
-  /* height: 90%; */
-  /* width: fit-content; */
-}
 #page1 h1 {
   font-size: 55px;
   color: #ffffff;
@@ -139,7 +130,6 @@ body {
   position: relative;
   height: 100vh;
   width: 100vw;
-
   display: flex;
   flex-direction: column;
   align-items: center;
@@ -177,13 +167,11 @@ body {
   position: absolute;
   bottom: 80%;
   margin-bottom: 50px;
-  /* margin-left: 500px; */
 }
 
 .page3 #img2 {
   position: absolute;
   margin-top: 250px;
-  /* height: 342px; */
   width: 60%;
 }
 
@@ -191,7 +179,6 @@ body {
   height: 20%;
   width: 40%;
   position: absolute;
-  /* background-color: blue; */
   bottom: 66%;
   display: flex;
   justify-content: center;
@@ -272,14 +259,11 @@ body {
   flex-direction: row;
   align-items: flex-start;
   justify-content: center;
-  /* margin: 40px; */
 }
 .left5 {
-  /* position: absolute; */
   font-size: 50px;
   margin-right: 0px;
   width: 32%;
-  /* bottom: 70%; */
   margin-bottom: 150px;
   font-weight: 600;
 }
@@ -316,8 +300,6 @@ body {
   flex-direction: column;
   align-items: center;
   justify-content: center;
-
-  /* margin: 40px; */
 }
 .page6 h1 {
   font-size: 60px;
@@ -332,7 +314,6 @@ body {
 }
 
 .page6 #p2 {
-  /* margin-top: 500px; */
   width: 20%;
 }
 .page7 {
@@ -350,7 +331,6 @@ body {
 }
 .page8 h1 {
   position: absolute;
-  /* top: 40%; */
   left: 8%;
   transform: translateY(50%);
   color: #0000008b;
@@ -361,7 +341,6 @@ body {
 }
 .page8 span {
   color: #000;
-  /* font-weight: 800; */
   z-index: 99;
 }
 .page9 {
@@ -382,7 +361,6 @@ body {
 }
 .page9 span {
   color: #000;
-  /* font-weight: 800; */
   z-index: 99;
 }
 
@@ -394,7 +372,6 @@ body {
 }
 .page10 h1 {
   position: absolute;
-  /* top: 40%; */
   transform: translateY(50%);
   left: 8%;
   color: #0000008b;
@@ -405,7 +382,6 @@ body {
 }
 .page10 span {
   color: #000;
-  /* font-weight: 800; */
   z-index: 99;
 }
 .page11 {
@@ -426,7 +402,6 @@ body {
 }
 .page11 span {
   color: #000;
-  /* font-weight: 800; */
   z-index: 99;
 }
 .page12 {
@@ -447,7 +422,6 @@ body {
 }
 .page12 span {
   color: #000;
-  /* font-weight: 800; */
   z-index: 99;
 }
 .page13 {
@@ -468,15 +442,8 @@ body {
 }
 .page13 span {
   color: #000;
-  /* font-weight: 800; */
   z-index: 99;
 }
-/* page14in{
-  position: absolute;
-  height: 100vh;
-  width: 100vw;
-  background-color: #f5f5f7;
-} */
 .page14 {
   position: relative;
   height: 100vh;
@@ -511,7 +478,6 @@ body {
   align-items: center;
 }
 .page15 video {
-  /* height: 95%; */
   width: 92.5%;
   margin-top: 100px;
 }
@@ -538,7 +504,6 @@ body {
 }
 .page16 img {
   width: 77%;
-  /* height: 60%; */
   margin-top: 100px;
 }
 .page16 button {
@@ -633,8 +598,7 @@ body {
 .page18-in > span {
   color: #fff;
 }
-/* .page18-in>img{
-} */
+
 .page19 {
   position: relative;
   height: 50vh;
@@ -663,15 +627,6 @@ body {
 .page19 span {
   color: #fff;
 }
-/* .page19 img {
-  position: absolute;
-  width: 90%;
-  height: 60%;
-  top: 25%;
-  left: 0%;
-  transform: translateX(30%);
-  object-fit: cover;
-} */
 .page20 {
   position: relative;
   height: 150vh;
@@ -692,27 +647,17 @@ body {
   top: 0%;
   position: absolute;
   width: 100%;
-  /* height: 100%; */
   object-fit: cover;
 }
 #span1 {
   font-size: 2.5vw;
-  /* font-size: 30px; */
-  /* margin-bottom: 200px; */
   padding-bottom: 700px;
   width: 40%;
 }
 #center-page20 p {
-  /* position: absolute; */
   font-size: 1.4vw;
-  /* height: max-content;
-  bottom: 0%;
-  right: 27%;
-  width: 45.4%; */
   font-weight: 500;
   color: #ffffff7c;
-  /* z-index: 99; */
-  /* margin-top: 500px; */
 }
 #center-page20 span {
   color: #fff;
@@ -723,10 +668,6 @@ body {
   height: 120vh;
   width: 100vw;
   background-color: #000;
-  /* display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column; */
 }
 #page21 > #troff {
   top: 35%;
@@ -735,7 +676,6 @@ body {
   position: absolute;
   width: 50%;
   z-index: 9;
-  /* height: 708px; */
   width: 50%;
 }
 #page21 > #tron {
@@ -779,13 +719,8 @@ body {
   height: 120vh;
   width: 100vw;
   background-color: #000;
-  /* display: flex;
-  justify-content: center;
-  align-items: center;
-  flex-direction: column; */
 }
 #page22 img{
-  /* height: 100vh; */
   width: 50%;
   position: absolute;
   top: 30%;
@@ -804,8 +739,6 @@ body {
    display: flex;
   align-items:flex-end;
   justify-content: center; 
-  /* justify-content: space-between; */
-  /* justify-content: left; */
   gap: 8rem;
 
 }
@@ -813,15 +746,10 @@ body {
   flex-direction: column;
    padding-bottom: 150px;
    padding-left: 100px;
-   /* padding-right: 300px; */
-/* display: flex;
-justify-content:left; */
-/* padding-right: 200px; */
 }
 
 .rt img{
   width: 73%;
-  /* margin-left: 100px; */
 }
 .lt img{
   width: 15%;
@@ -856,7 +784,6 @@ justify-content:left; */
   }
   .page {
     width: 550px;
-    /* height: 100%; */
   }
   .page > video {
     transform: translateX(-6%);
@@ -882,7 +809,6 @@ justify-content:left; */
   }
 
   #page1 > video {
-    /* position: absolute; */
     width: 100%;
     height: 100%;
     object-fit: contain;
